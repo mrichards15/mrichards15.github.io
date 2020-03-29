@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/home-bg.jpg);
+    background: url(img/home-bg.jpg);
     background-size: cover;
     height: 100vh;
     color: #d8d6d6;
@@ -784,16 +784,6 @@ fieldset {
 
 .social li a:hover {
     color: #129924;
-}
-
-#imdb {
-    background-image: url('img/imdb-logo.png');
-    width: 32px;
-}
-
-
-#imdb:hover {
-    background-image: url('img/imdb-logo-green.png');
 }
 
 
