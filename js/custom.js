@@ -112,6 +112,7 @@ $(document).ready(function () {
     $("#demo06").animatedModalPhotoViewer();
     $("#demo07").animatedModalJSketch();
     $("#demo08").animatedModalPaperDoll();
+    $("#demo09").animatedModalFoodPal();
 
     // Contact Form 	
 
