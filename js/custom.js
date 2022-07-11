@@ -113,6 +113,8 @@ $(document).ready(function () {
     $("#demo07").animatedModalJSketch();
     $("#demo08").animatedModalPaperDoll();
     $("#demo09").animatedModalFoodPal();
+    $("#demo10").animatedHockeyDraftLottery();
+    $("#demo11").animatedHockeyTradeSimulator();
 
     // Contact Form 	
 

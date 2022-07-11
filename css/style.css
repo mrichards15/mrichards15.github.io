@@ -653,6 +653,14 @@ a.active {
     opacity: 1;
 }
 
+.animatedHockeyDraftLottery-on .close-popup-modal {
+    opacity: 1;
+}
+
+.animatedHockeyTradeSimulator-on .close-popup-modal {
+    opacity: 1;
+}
+
 
 .modal-content h2 {
     font-family: 'Playfair Display', serif;
